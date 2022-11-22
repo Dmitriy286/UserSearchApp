@@ -3,7 +3,7 @@ import junit.framework.TestCase;
 import java.io.IOException;
 import java.util.*;
 
-public class MainTest extends TestCase {
+public class ApplicationTest extends TestCase {
     Application application;
     Scanner scanner;
 
